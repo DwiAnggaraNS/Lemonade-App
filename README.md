@@ -53,5 +53,5 @@ If you encounter problems while running the project, here are some troubleshooti
 2. Update Dependencies: Make sure all dependencies and Android Studio plugins are updated to the latest versions.
 3. Inspect Logcat: Use Logcat in Android Studio to view logs and debug any issues that may arise.
 
-## *Important Notes*
+## **Important Notes**
 Ensure you keep project dependencies updated regularly to get the latest fixes and enhancements.
